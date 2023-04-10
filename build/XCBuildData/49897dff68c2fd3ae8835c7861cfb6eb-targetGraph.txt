@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+CLTypingLabel in Pods, no dependencies
+Pods-ChatMate in Pods, depends on:
+CLTypingLabel in Pods (explicit)

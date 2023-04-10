@@ -1,0 +1,48 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e982144fa6e8a15946a712e8b0533378446"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f71e17a01eb27fb6b4fc2c7b023efd63"
+    }
+  ],
+  "containerPath" : "/Users/hrasuljonov/Documents/ChatMate/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/hrasuljonov/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/hrasuljonov/Library/Developer/Xcode/DerivedData/Pods-effytcgkhpcbsmdwrjgmnqcbovfg/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/hrasuljonov/Library/Developer/Xcode/DerivedData/Pods-effytcgkhpcbsmdwrjgmnqcbovfg/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
