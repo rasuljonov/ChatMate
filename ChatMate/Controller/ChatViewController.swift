@@ -94,6 +94,8 @@ class ChatViewController: UIViewController {
     }
 }
 
+// MARK: - ChatViewController _ @hrasuljonov
+
 extension ChatViewController: UITableViewDataSource {
    
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
